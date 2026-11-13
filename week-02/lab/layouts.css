@@ -1,0 +1,183 @@
+/* Layout A */
+
+.layout-a {
+    background-color: #EEF2F7;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+.article-card {
+    box-sizing: border-box;
+    width: 600px;
+    max-width: calc(100% - 32px);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    background-color: white;
+    border: 1px solid #C9D2DE;
+    border-radius: 12px;
+}
+
+.article-card h1 {
+    font-size: 40px;
+    color: #0B1F3A;
+}
+
+.article-meta {
+    font-size: 20px;
+    color: #5A6472;
+}
+
+.article-card h2 {
+    font-size: 28px;
+}
+
+.article-card a {
+    color: #0A66FF;
+    text-decoration: underline;
+}
+
+.article-card footer {
+    border-top: 1px solid #C9D2DE;
+    margin-top: 30px;
+    padding-top: 15px;
+}
+
+/* Layout B */
+
+.layout-b {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.layout-b header {
+    background-color: #0B1F3A;
+    color: white;
+    padding: 24px 30px;
+}
+
+.layout-b header h1 {
+    font-size: 24px;
+}
+
+.layout-b nav a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin-right: 24px;
+    margin-top: 15px;
+}
+
+.layout-b nav a:hover,
+.layout-b nav a:focus-visible {
+    text-decoration: underline;
+}
+
+.hero {
+    background-color: #0A66FF;
+    color: white;
+    text-align: center;
+    min-height: 300px;
+    padding: 14px 28px;
+}
+
+.hero h2 {
+    font-size: 36px;
+}
+
+.hero-button {
+    display: inline-block;
+    background-color: white;
+    color: #0B1F3A;
+    text-decoration: none;
+    padding: 14px 28px;
+    border-radius: 25px;
+}
+
+.intro {
+    background-color: #F3F6FA;
+    padding: 40px;
+    text-align: center;
+}
+
+.intro p {
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+.site-footer {
+    background-color: #29313D;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+}
+
+/* Layout C */
+
+.layout-c {
+    background-color: #EEF2F7;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+.profile-card {
+    width: 420px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 32px;
+    background-color: white;
+    border: 1px solid #C9D2DE;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.avatar {
+    width: 120px;
+    height: 120px;
+    background-color: #0A66FF;
+    color: white;
+    border-radius: 50%;
+    margin: 0 auto 16px;
+    line-height: 120px;
+    font-size: 28px;
+}
+
+.profile-card h1 {
+    font-size: 34px;
+}
+
+.role {
+    color: #5A6472;
+    font-size: 20px;
+}
+
+.description {
+    margin: 25px 0;
+}
+
+.stat {
+    display: inline-block;
+    width: 30%;
+    padding: 12px 0;
+    background-color: #F3F6FA;
+    text-align: center;
+    vertical-align: top;
+}
+
+.stat strong {
+    color: #0A66FF;
+    font-size: 22px;
+}
+
+.portfolio-button {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #0B1F3A;
+    color: white;
+    text-decoration: none;
+    padding: 14px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
