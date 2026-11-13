@@ -1,0 +1,56 @@
+/* TEST 1 */
+
+p {
+    color: red;
+}
+
+.note {
+    color: blue;
+}
+
+
+/* TEST 2 */
+
+.card p {
+    color: red;
+}
+
+p.note {
+    color: blue;
+}
+
+
+/* TEST 3 */
+
+#hero {
+    color: red;
+}
+
+.hero.big {
+    color: blue;
+}
+
+
+/* TEST 4 */
+
+nav a:hover {
+    color: red;
+}
+
+.menu a {
+    color: blue;
+}
+
+
+/* TEST 5 */
+
+#intro {
+    color: blue;
+}
+
+
+/* TEST 6 */
+
+.btn {
+    color: red !important;
+}
