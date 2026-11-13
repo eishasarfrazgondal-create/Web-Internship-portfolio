@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Specificity Lab</title>
+    <link rel="stylesheet" href="specificity.css">
+</head>
+
+<body>
+
+    <h1>CSS Specificity Lab</h1>
+
+    <!-- Test 1 -->
+    <p class="note">Test 1: Which colour wins?</p>
+
+    <!-- Test 2 -->
+    <div class="card">
+        <p class="note">Test 2: Which colour wins?</p>
+    </div>
+
+    <!-- Test 3 -->
+    <p id="hero" class="hero big">Test 3: Which colour wins?</p>
+
+    <!-- Test 4 -->
+    <nav class="menu">
+        <a href="#">Test 4: Hover over this link</a>
+    </nav>
+
+    <!-- Test 5 -->
+    <p id="intro" style="color: red;">
+        Test 5: Which colour wins?
+    </p>
+
+    <!-- Test 6 -->
+    <button class="btn" style="color: blue;">
+        Test 6: Which colour wins?
+    </button>
+
+</body>
+</html>
