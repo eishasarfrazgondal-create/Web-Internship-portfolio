@@ -1,0 +1,51 @@
+/* Basic Reset */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Body Layout */
+
+body {
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+
+    font-family: Arial, sans-serif;
+}
+
+
+/* Header */
+
+.site-header {
+    background-color: #0f172a;
+    color: white;
+
+    padding: 1.5rem;
+    text-align: center;
+}
+
+
+/* Main Content */
+
+main {
+    flex: 1;
+
+    padding: 2rem;
+    text-align: center;
+}
+
+
+/* Footer */
+
+.site-footer {
+    background-color: #0f172a;
+    color: white;
+
+    padding: 1.5rem;
+    text-align: center;
+}

@@ -174,3 +174,19 @@ Test	   My prediction	Actual result	Correct?
 4	          Red on hover	Red on hover	  Yes
 5	             Red	        Red	          Yes
 6	             Red	        Red	          Yes
+
+## Tuesday — Flexbox
+
+### Flexbox Concepts
+
+1. justify-content:
+   Controls how flex items are positioned along the main axis.
+
+2. align-items:
+   Controls how flex items are aligned along the cross axis.
+
+3. flex-direction:
+   Determines the direction in which flex items are arranged, either in a row or column.
+
+4. flex-wrap:
+   Determines whether flex items stay on one line or move onto additional lines when there isn't enough space.
