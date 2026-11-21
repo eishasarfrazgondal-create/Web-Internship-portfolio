@@ -109,3 +109,63 @@ Updated the README and learning log.
 | Keyboard Navigation | `register.html` | Passed | All form elements were accessible using keyboard navigation. |
 | Browser Zoom (200%) | `register.html` | Passed | Form remained readable and usable at 200% zoom. |
 | Color Contrast | `register.html` | Pending | Testing not completed yet. |
+
+
+
+
+
+# Week 2 — SecureNest Website
+
+## 1. Project Overview
+SecureNest is a fictional cybersecurity consultancy website developed using HTML5 and CSS3. It provides information about cybersecurity services and contact options.
+
+## 2. Website Pages
+
+| Page | Description |
+|---|---|
+| Home | Introduction, service previews and company highlights |
+| Services | Cybersecurity services and FAQs |
+| Contact | Contact form and contact information |
+
+## 3. Live Website
+**GitHub Pages:** [Add your deployed website link]
+
+## 4. Technologies Used
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Media Queries
+- CSS Variables
+- Git and GitHub
+
+## 5. Responsive Design
+
+| Screen | Width |
+|---|---:|
+| Mobile | 360px |
+| Tablet | 768px |
+| Desktop | 1200px |
+
+The website follows a mobile-first approach.
+
+## 6. Colour Palette
+
+| Colour | Hex Code | Purpose |
+|---|---|---|
+| Primary | `#2563eb` | Main theme |
+| Background | `#ffffff` | Page background |
+| Text | `#1a1f29` | Text |
+| Surface | `#f1f5f9` | Cards and sections |
+| Border | `#cbd5e1` | Borders |
+
+
+## TEST RESULTS
+
+
+File	Validator	 Result
+index.html	Nu HTML Checker	2 errors
+services.html	Nu HTML Checker	0 errors
+contact.html	Nu HTML Checker	3 errors
+styles.css	W3C CSS Validator	0 errors
+

@@ -174,3 +174,49 @@ Test	   My prediction	Actual result	Correct?
 4	          Red on hover	Red on hover	  Yes
 5	             Red	        Red	          Yes
 6	             Red	        Red	          Yes
+
+
+# Week 2 Daily Learning Log
+**Project:** SecureNest Website  
+**Dates:** 9–13 November 2026
+
+| Day | Topics Learned | Work Completed |
+|---|---|---|
+| Monday | CSS Box Model, selectors, specificity, units | CSS exercises and box-model layouts |
+| Tuesday | Flexbox, main axis, cross axis, flex-wrap | Navigation bar, six cards, hero and sticky footer |
+| Wednesday | CSS Grid, grid-template-areas, auto-fit, minmax | Grid page layout, eight-card gallery and Flexbox comparison |
+| Thursday | Mobile-first design, media queries, CSS variables, themes | Shared stylesheet, responsive lab and three HTML page skeletons |
+| Friday | Integration, responsiveness, accessibility, Lighthouse | SecureNest website testing, documentation and publishing preparation |
+
+## Monday
+- **Learned:** Box model, CSS selectors, specificity and units.
+- **Built:** Box-model and CSS specificity exercises.
+- **Challenge:** Understanding specificity conflicts.
+- **Mentor question:** How can specificity conflicts be avoided?
+
+## Tuesday
+- **Learned:** Flexbox properties and one-dimensional layouts.
+- **Built:** Responsive navbar, cards, hero and sticky footer.
+- **Challenge:** Understanding main and cross axes.
+- **Mentor question:** When should Flexbox be preferred over Grid?
+
+## Wednesday
+- **Learned:** CSS Grid, auto-fit, minmax and grid-template-areas.
+- **Built:** Grid layout, card gallery and featured card.
+- **Challenge:** Understanding named grid areas.
+- **Mentor question:** What is the difference between auto-fit and auto-fill?
+
+## Thursday
+- **Learned:** Mobile-first design, media queries, CSS variables and themes.
+- **Built:** Shared stylesheet, responsive lab and three HTML pages.
+- **Challenge:** Fixing stylesheet paths.
+- **Mentor question:** How should shared CSS be organised?
+
+## Friday
+- **Learned:** Website integration, Lighthouse and accessibility testing.
+- **Built:** Worked on the final SecureNest website and documentation.
+- **Challenge:** Lighthouse required an HTTP/HTTPS page, so I used Live Server.
+- **Mentor question:** What improvements would you recommend for my website?
+
+## Weekly Reflection
+This week, I progressed from basic CSS concepts to building responsive layouts using Flexbox and Grid. I also practised accessibility, testing and GitHub workflows while developing a three-page cybersecurity consultancy website.
