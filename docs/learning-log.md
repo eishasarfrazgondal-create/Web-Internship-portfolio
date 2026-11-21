@@ -162,3 +162,15 @@ I also learned the importance of organizing project files, documenting progress,
 - Practice more Git and GitHub workflows.
 - Improve webpage accessibility.
 - Continue developing the internship portfolio.
+
+
+
+##Week 2
+
+Test	   My prediction	Actual result	Correct?
+1	            Blue  	       Blue	          Yes
+2	            Blue	       Blue	          Yes
+3	            Red  	       Red	          Yes
+4	          Red on hover	Red on hover	  Yes
+5	             Red	        Red	          Yes
+6	             Red	        Red	          Yes
